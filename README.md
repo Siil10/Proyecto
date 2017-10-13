@@ -22,28 +22,19 @@ Activos: cartel, logotipo, invitación, infografía, galería 3D, sitio web, pun
 Ideas claves a desarrollar: Cultura y turismo. 
 
 Público objetivo: 
-Edad
-+12
-Sexo
-Ambos
-Ocupación
-Estudiantes, historiadores, personas interesadas en el tema.
+- Edad +12
+- Sexo Ambos
+- Ocupación Estudiantes, historiadores, personas interesadas en el tema.
 
 
-Lugar de residencia
-Latinoamérica
-Nivel económico:
-Media
-Personalidad
-una persona culta con gusto por la cultura general mexicana.
+- Lugar de residencia Latinoamérica
+- Nivel económico: Clase Media
+-Personalidad una persona culta con gusto por la cultura general mexicana.
 
 
-Hobbies
-Leer, saber, cultura general
-Valores
-respeto ante los movimientos patrióticos, confianza   
-Intereses
-Investigación por la historia y conocer los hechos 
+- Hobbies Leer, saber, cultura general
+- Valores respeto ante los movimientos patrióticos, confianza   
+- Intereses Investigación por la historia y conocer los hechos 
 
 
 Síntesis de público objetivo: Dirigido a personas interesadas en la historia mexicana específicamente en la revolución, así mismo en cultura general.
